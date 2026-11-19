@@ -1,3 +1,3 @@
 garland=on
 snow=on
-music=oт
+music=on
